@@ -10,7 +10,7 @@
 - 💻 Passionate about building user-friendly web applications with modern technologies.
 - 🌱 Currently enhancing my TypeScript, Next.js, and backend skills.
 - 🏆 Working on personal and open-source projects to grow my expertise.
-- 📫 Let's connect! [linkedin.com/in/sthasandes](www.linkedin.com/in/sthasandes) | [Portfolio](https://github.com/sandesnp)
+- 📫 Let's connect! [Linkedin](linkedin.com/in/sthasandes) | [Portfolio](https://github.com/sandesnp)
 
 ---
 
@@ -70,6 +70,6 @@ media resolution support.*
 ### 🤝 Let's Connect
 
 📩 **Email:** sthasandesnp@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/sthasandes](www.linkedin.com/in/sthasandes)  
+🔗 **LinkedIn:** [Linkedin](linkedin.com/in/sthasandes)  
 
 🔥 *Always open to new opportunities, collaborations, and tech discussions!*
